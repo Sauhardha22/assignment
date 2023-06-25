@@ -1,7 +1,7 @@
-// const allUsers = ['hari', 'shyam', 'thakur']
+//Q3
+// calculate sum of array using either for in or for of
+//Output= 20
 
-
-//question 3
 const arr = [2,5,6,7]
 
 let added = 0
@@ -11,7 +11,10 @@ console.log(added)
 
 
 
-//question 4
+//Q4
+//high level
+//remove from array if duplicate
+
 const users = ['hari', 'shyam','hari']
 let tempArr=[]
 users.map((item,idx)=>{
@@ -28,7 +31,9 @@ console.log(tempArr)
 
 
 
-//question 5
+//Q5
+//calculate the sum of all the odd numbers inside this nested array
+//Output= 24
 
 const newArr = [[4,5], [5,7], [7,2]]
 

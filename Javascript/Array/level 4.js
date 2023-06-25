@@ -1,3 +1,7 @@
+//Q1 find if hari is in allUsers array or not/
+//expected output is :
+//true
+ 
  const allUsers = ['hari', 'shyam', 'thakur']
 
  allUsers.map((item,idx)=>{
@@ -5,6 +9,12 @@
          console.log('true')
      }
 })
+
+
+
+//Q2 find number of duplicates
+//expected output is : 2
+//true
 
 
 const user= 'hari'
