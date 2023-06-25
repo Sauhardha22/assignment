@@ -1,26 +1,7 @@
 // const allUsers = ['hari', 'shyam', 'thakur']
 
-// allUsers.map((item,idx)=>{
-//     if (item === 'hari'){
-//         console.log('true')
-//     }
-// })
 
-
-// const user= 'hari'
-// const userArr = ['hari','shyam','hari','thakur']
-
-// let count= 0
-// userArr.map((item)=>{
-//     if (item === 'hari'){
-//       count = count + 1
-//     }
-// })
-// console.log(count)
-
-
-
-//question 1
+//question 3
 const arr = [2,5,6,7]
 
 let added = 0
@@ -30,7 +11,7 @@ console.log(added)
 
 
 
-//question 2
+//question 4
 const users = ['hari', 'shyam','hari']
 let tempArr=[]
 users.map((item,idx)=>{
@@ -47,7 +28,7 @@ console.log(tempArr)
 
 
 
-//question 3
+//question 5
 
 const newArr = [[4,5], [5,7], [7,2]]
 
